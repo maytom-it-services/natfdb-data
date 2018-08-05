@@ -1,0 +1,8 @@
+Label,Value,Description
+Adult,adult,Fully grown
+Geriatric,geriatric,Fully grown, but aged
+Juvenile,juvenile,
+Nestling,nestling,Resides in nest
+Pouch,pouch,Resides in mothers pouch
+Sub-Adult,sub_adult,
+Unknown,unknown,Age is indeterminate
