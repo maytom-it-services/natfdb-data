@@ -1,0 +1,5 @@
+Label,Value,Description
+Female,female,
+Male,male,
+Unknown,unknown,Sex was not able to be determined
+Mixture,mixture,Mixture of sexes used when recording multiple fauna in single encounter
