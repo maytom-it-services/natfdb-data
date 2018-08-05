@@ -1,0 +1,5 @@
+Label,Value,Description
+System administrator,sys_admin,Highest level privileges across all areas of the system
+Database administrator,admin,Complete management of all transactional data
+Species coordinator,species_coordinator,Has visibility to carer records under management
+Rescuer/Carer,carer,Own record management
